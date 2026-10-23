@@ -1,0 +1,12 @@
+# T-04-6-6 — Jeu de plateforme
+
+Calibrage (référence du catalogue) : Super Meat Boy
+
+## Sources
+- GUID (gameuidatabase.com) : Super Meat Boy (13) + Super Meat Boy Forever, même studio Team Meat, en compensation (24) — 37 images
+- IIG (interfaceingame.com) : absent — Team Meat entièrement absent de la base — 0 image
+- OFFICIAL : Steam (appid 40800, Super Meat Boy original) — 8 images
+
+Total : 45/56
+
+Substitution : Team Meat absent d'IIG dans son intégralité. Super Meat Boy original ne fournit que 13 captures sur GUID (jeu minimaliste, peu d'écrans UI) — compensation par Super Meat Boy Forever (même studio, même franchise) pour monter GUID à 37, cible ~48 non atteinte car les deux jeux combinés épuisent la matière disponible (fichiers suffixés `_GUID_SUBST-SMBFOREVER`).

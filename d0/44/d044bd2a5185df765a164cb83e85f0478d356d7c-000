@@ -1,0 +1,12 @@
+# T-04-7-1 — Mise à jour & saison
+
+Calibrage (référence du catalogue) : Genshin Impact
+
+## Sources
+- GUID (gameuidatabase.com) : Genshin Impact (Console) — 24 images, sélection espacée sur 161 thumbs disponibles
+- IIG (interfaceingame.com) : Genshin Impact Mobile — 24 images
+- OFFICIAL : PlayStation (image.api.playstation.com) — 8 images (key art officiel 1024×1024, pas de Steam pour ce jeu — HoYoPlay uniquement — et site officiel genshin.hoyoverse.com entièrement en JS, inexploitable en curl)
+
+Total : 56/56
+
+Substitution : aucune. Jeu non disponible sur Steam (launcher propriétaire HoYoPlay) — OFFICIAL basculé sur PlayStation, images key art carrées faute de captures d'écran 16:9 exploitables sur ce canal.

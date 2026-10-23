@@ -1,0 +1,12 @@
+# T-04-6-7 — Jeu contemplatif
+
+Calibrage (référence du catalogue) : Abzu
+
+## Sources
+- GUID (gameuidatabase.com) : Abzu — 22 images (max disponible en base)
+- IIG (interfaceingame.com) : Abzu — 11 images (max disponible, jeu court, pas de pagination supplémentaire)
+- OFFICIAL : Steam (appid 384190) — 7 images (7 hash disponibles sur la page Steam, PlayStation store sans résultat exploitable en curl — contenu chargé en JS)
+
+Total : 40/56
+
+Substitution : aucune, les deux bases sont présentes mais sous quota (petit jeu, peu de matière) — chiffres réels pris intégralement, rien comblé artificiellement.
